@@ -1,5 +1,5 @@
 # <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="horizontal" data-theme="dark" data-vanity="patotricks15"><a class="LI-simple-link" href=''>João Vogel</a></div>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3ovfvogel/)](https://www.linkedin.com/in/jo%C3%A3ovfvogel/)  <!--[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@patotricks15)](https://medium.com/@patotricks15) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=joaofreitasvogel@gmail.com)](joaofreitasvogel@gmail.com)[![Kaggle Badge](https://img.shields.io/badge/-kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/patrickgomes)](https://www.kaggle.com/patrickgomes)--> [![Portifolio Badge](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=Portfolio&logoColor=white&link=https://patotricks15.github.io/Patotricks15/)](https://github.com/jvfvogel/Projetos-DS)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3ovfvogel/)](https://www.linkedin.com/in/jo%C3%A3ovfvogel/) [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@joaofreitasvogel)](https://medium.com/@joaofreitasvogel) <!-- [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=joaofreitasvogel@gmail.com)](joaofreitasvogel@gmail.com)[![Kaggle Badge](https://img.shields.io/badge/-kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/patrickgomes)](https://www.kaggle.com/patrickgomes)  [![Portifolio Badge](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=Portfolio&logoColor=white&link=https://patotricks15.github.io/Patotricks15/)](https://github.com/jvfvogel/Projetos-DS)-->
 
 ## Bem vindos!
 
@@ -16,14 +16,13 @@ Cursando Bacharelado em Física.
 - **RPA**: Desenvolvimento de bots para automação de processos.
 
 ## Tecnologias:
-- **Linguagens de programação**: Python
-- **Softwares de estatística e mineração de dados**: R, Excel, Orange3, Stata
-- **Softwares de visualização de dados**: AWS - QuickSight, Power BI
-- **Banco de dados**: MySQL, MongoDB, SQLite
+- **Linguagens de programação**: Python, PHP, JAVA
+- **Softwares de visualização de dados**: Power BI, Tableau
+- **Banco de dados**: MySQL, SQLite, SQL server
 - **Computação em nuvem**: AWS (básico)
 
 ## Repositório com meus projetos em Ciência de Dados:
 
 [Projetos de ciência de dados](https://github.com/jvfvogel/Projetos-DS)
 
-## O que estou estudando atualmente:
+
